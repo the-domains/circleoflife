@@ -1,0 +1,28 @@
+name: Circleoflife
+favicon: null
+layout_spectrum: 0.4459835053421557
+typography_spectrum: 0.8373797566164285
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.936713167000562
+  lightness: 0.0493316650390625
+  saturation: 0.7076300794724375
+  rhythmicContrast: 0.5165294765029103
+purpose: []
